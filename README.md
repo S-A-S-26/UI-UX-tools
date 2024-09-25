@@ -8,3 +8,5 @@ Suggestions
 5. https://haikei.app/- background SVG and Blobs with Randomizer.
 6. https://www.blobmaker.app/- Minimalistic Blob generator.
 7. https://10015.io/tools/svg-pattern-generator- SVG Background Pattern Generator and More.
+8. https://www.figma.com/design/FqiFFg5ICMjdnJqr9fZBBc/Free-Icon-Pack-1800%2B-icons-(Community)?t=zSotTW6gFuH80dh5-0 - Figma icons Pack.
+9. https://app.rytr.me/onboarding- AI Writer for mails etc.
