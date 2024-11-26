@@ -10,3 +10,5 @@ Suggestions
 7. https://10015.io/tools/svg-pattern-generator- SVG Background Pattern Generator and More.
 8. https://www.figma.com/design/FqiFFg5ICMjdnJqr9fZBBc/Free-Icon-Pack-1800%2B-icons-(Community)?t=zSotTW6gFuH80dh5-0 - Figma icons Pack.
 9. https://app.rytr.me/onboarding- AI Writer for mails etc.
+10. https://github.com/birobirobiro/awesome-shadcn-ui?tab=readme-ov-file   - ui components readily provided.
+11. https://github.com/satnaing/shadcn-admin  - shad cn components.
